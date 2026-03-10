@@ -1,5 +1,6 @@
-﻿{
+{
   "rewrites": [
-    { "source": "/g/:id", "destination": "/g/[id].html" }
+    { "source": "/g/:id", "destination": "/g/index.html" }
   ]
 }
+
