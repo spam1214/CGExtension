@@ -1,0 +1,9 @@
+# API Keys and Secrets
+.env
+.env.local
+.env.development.local
+
+# Tooling / OS files
+node_modules/
+.DS_Store
+dist/
